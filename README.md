@@ -7,7 +7,7 @@ a dynamic and responsive interface for gym operations.
 
 ## 🌐 Live Demo
 
-> 🚀 [Click here to view the live site](#) *(https://royal-fitness-freak.netlify.app/)*
+> 🚀 [Click here to view the live site](#) *(https://royal-fitness-freaks.netlify.app/)*
 
 ---
 
