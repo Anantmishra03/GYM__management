@@ -13,9 +13,12 @@ a dynamic and responsive interface for gym operations.
 
 ## 📸 Screenshots
 
-> ![Screenshot 2025-04-11 191108](https://github.com/user-attachments/assets/d8bd45f8-076f-4762-beae-59281d064508)
-> ![Screenshot 2025-04-12 215033](https://github.com/user-attachments/assets/376f41f5-56fc-4249-9b77-09f7014b8844)
-> ![Screenshot 2025-04-11 185913](https://github.com/user-attachments/assets/ffd98a31-a5b6-4d00-852e-6da586fb2504)
+> ![Screenshot 2025-04-11 191108](https://github.com/user-attachments/assets/d16ad34a-c0a3-4175-99be-41b56a8527df)
+
+> ![Screenshot 2025-04-12 215033](https://github.com/user-attachments/assets/cde6f231-18af-4a19-91e1-f6e96d052cbf)
+
+> ![Screenshot 2025-04-11 185913](https://github.com/user-attachments/assets/ec2205d6-afe7-4063-9e9c-a4cb5138ad07)
+
 
 
 
